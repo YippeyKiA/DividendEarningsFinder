@@ -1,0 +1,3 @@
+Pull data from Stocks
+Apply to excel
+Graph
